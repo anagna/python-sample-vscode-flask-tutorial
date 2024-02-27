@@ -10,7 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  azureSubscription: Tassos Visual Studio Enterprise Subscription – MPN
+  azureSubscription: 'Tassos Visual Studio Enterprise Subscription – MPN'
   #355f3537-a69a-4133-9171-077cb4c0fbd3
   appName: protected-eiopa
 
