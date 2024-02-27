@@ -10,7 +10,8 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  azureSubscription: 355f3537-a69a-4133-9171-077cb4c0fbd3
+  azureSubscription: Tassos Visual Studio Enterprise Subscription – MPN
+  #355f3537-a69a-4133-9171-077cb4c0fbd3
   appName: protected-eiopa
 
   dockerRegistryServiceConnection: '2debde74-4feb-4321-935d-d8de95eeb048'
